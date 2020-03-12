@@ -16,6 +16,8 @@ If you simply need to download the project to edit your titles for the intro, pe
     4.4. Double-click the subtitle text you wish to replace, and enter your text.
 5. Export your intro as an MP4.
 
+You can view the sample intro [here](https://github.com/SmartterHealth/camtasia-smartter-health-intro/blob/master/sample_intro/sample_intro.mp4?raw=true).
+
 *Figure 1 - Expanding the Titles group.*
 
 ![Click the *+* to expand the *titles* group](./images/titles_group.png)
